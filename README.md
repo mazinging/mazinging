@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm mazinging 👋
+
+- 🚀 正在系统学习 Git / GitHub 协作（从零开始，三天完成核心流程）
+- 📓 我的 Git 学习之旅：[lesson-1-basics](https://github.com/mazinging/lesson-1-basics)
+- 🌱 已走完：分支合并 · 冲突解决 · rebase · fork & 第一个 PR
 
 <!--
 **mazinging/mazinging** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
