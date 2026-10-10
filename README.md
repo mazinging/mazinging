@@ -1,6 +1,5 @@
 ﻿# Hi, I'm mazinging 👋
 
-大连理工大学 · 方向：LLM / AI 应用开发
 
 ## 精选项目
 
